@@ -1,6 +1,6 @@
 import numpy as np
 
-class titleTextBGML:
+class titleTextRBGML:
     def __init__(self):
         self.text_color_map = np.array([[0,0,0],[0,1,1],[1,1,1,]])
         self.red = None
