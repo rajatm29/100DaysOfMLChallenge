@@ -1,5 +1,3 @@
-import numpy as np
-
 class titleTextRBGML:
     def __init__(self):
         pass
