@@ -4,4 +4,5 @@ import seq2seq_model
 
 
 def train():
-    pass
+    encoder_data, decoder_data = data_utils.prepare_custom_data()
+   
